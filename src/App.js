@@ -2,7 +2,7 @@ import './App.css';
 import CardList from './cardList';
 import Header from './Header';
 import Bottom from './bottom';
-import Kartik from './Lovleen';
+import Lovleen from './Lovleen';
 import CardList123 from './CardList1';
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
      <CardList123/>
      <staffList2/>
      <Bottom/>
-     <Kartik/>
+     <Lovleen/>
     </div>
   );
 }
