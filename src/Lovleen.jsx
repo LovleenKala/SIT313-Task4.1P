@@ -1,6 +1,6 @@
 import "./Lovleen.css";
 
-const Kartik  = () => {
+const Lovleen  = () => {
     return(
         <div className="main">
 
@@ -58,4 +58,4 @@ const Kartik  = () => {
     );
 };
 
-export default Kartik
+export default Lovleen
